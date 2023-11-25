@@ -1,0 +1,35 @@
+#Result{
+    background-color:#D5E2E6;
+    color: #3a3f51;
+    font-family: sans-serif;
+    width: 90%;
+    margin: 20px;
+    cursor: none;
+    padding-bottom: 30px;
+}
+#body{
+    width: 410px;
+}
+#body tr td input{
+ height: 70px;
+ width: 80px;
+}
+#image{
+    width: 30%;
+    margin-left: 8%;
+}
+#image1{
+    width: 28%;
+    position: absolute;
+    margin: 20px;
+    right: 0;
+}
+@media(max-width:412px){
+    body{
+        width: 370px;
+        position: absolute;
+        top: 296px;
+        left: 20px;
+        
+    }
+    
